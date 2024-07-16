@@ -13,5 +13,5 @@ Welcome to the Python-Data-Analytics repository! This repository is designed to 
 3. [String Formatting](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/3_String_Formatting.ipynb)
 4. [Conditional Statements](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/4_Conditional_Statements.ipynb)
 5. [Lists](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/5_Lists.ipynb)
-6. [Dictionaries](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/5_Dictionaries.ipynb)
-7. [Sets](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/5_Sets.ipynb)
+6. [Dictionaries](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/6_Dictionaries.ipynb)
+7. [Sets](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/7_Sets.ipynb)
