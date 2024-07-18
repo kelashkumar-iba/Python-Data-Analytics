@@ -15,3 +15,4 @@ Welcome to the Python-Data-Analytics repository! This repository is designed to 
 5. [Lists](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/5_Lists.ipynb)
 6. [Dictionaries](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/6_Dictionaries.ipynb)
 7. [Sets](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/7_Sets.ipynb)
+8. [Tuples](https://github.com/kelashkumar-iba/Python-Data-Analytics/blob/main/8_Tuples.ipynb)
